@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfe54d1e-d652-4694-b06c-87c670d722a6" name="Changes" comment="Main.js">
+      <change beforePath="$PROJECT_DIR$/Encoder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Encoder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HuffManTrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/HuffManTrees.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees.js" beforeDir="false" afterPath="$PROJECT_DIR$/Trees.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="27mNUGzrcibljeQv7SMjy8KUura" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.Main.js">
+    <configuration name="Encoder.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Encoder.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="HuffManTrees.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HuffManTrees.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Main.js" />
+        <item itemvalue="Node.js.HuffManTrees.js" />
+        <item itemvalue="Node.js.Encoder.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfe54d1e-d652-4694-b06c-87c670d722a6" name="Changes" comment="" />
+      <created>1649921316379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649921316379</updated>
+      <workItem from="1649921318595" duration="2613000" />
+      <workItem from="1649968907237" duration="824000" />
+      <workItem from="1650000747452" duration="3149000" />
+      <workItem from="1650241093943" duration="49000" />
+      <workItem from="1650241591810" duration="2725000" />
+      <workItem from="1650245872115" duration="164000" />
+      <workItem from="1650246480551" duration="884000" />
+      <workItem from="1650265201139" duration="760000" />
+      <workItem from="1650272393286" duration="1632000" />
+      <workItem from="1650278737902" duration="23000" />
+      <workItem from="1650278845029" duration="767000" />
+      <workItem from="1650340373572" duration="417000" />
+      <workItem from="1650343531168" duration="799000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixing the dictionary length bug">
+      <created>1649967883631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649967883631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixing path bug">
+      <created>1650003274027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650003274027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Main.js">
+      <created>1650246519595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650246519595</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixing the dictionary length bug" />
+    <MESSAGE value="fixing path bug" />
+    <MESSAGE value="Main.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main.js" />
+  </component>
+</project>
