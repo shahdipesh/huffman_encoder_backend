@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe54d1e-d652-4694-b06c-87c670d722a6" name="Changes" comment="Main.js">
-      <change beforePath="$PROJECT_DIR$/Encoder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Encoder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HuffManTrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/HuffManTrees.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees.js" beforeDir="false" afterPath="$PROJECT_DIR$/Trees.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitIgnore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -78,7 +78,7 @@
       <workItem from="1650278737902" duration="23000" />
       <workItem from="1650278845029" duration="767000" />
       <workItem from="1650340373572" duration="417000" />
-      <workItem from="1650343531168" duration="799000" />
+      <workItem from="1650343531168" duration="1131000" />
     </task>
     <task id="LOCAL-00001" summary="fixing the dictionary length bug">
       <created>1649967883631</created>
